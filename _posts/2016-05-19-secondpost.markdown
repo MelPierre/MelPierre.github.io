@@ -1,30 +1,9 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
+title:  "Stats"
+date:   2016-05-19 10:41:13 +0100
+categories: jekyll update
 ---
-
-
-Lorem ipsum dolor sit amet, simul pertinax nam ea, qui omittam inimicus ex. Id audiam expetenda nec, qui no debet zril suscipiantur. Vim error salutatus id. Ut ignota delicatissimi vel.
-
-Ut vim facilisis pertinacia, soluta laboramus sadipscing mel et, nam inimicus imperdiet vituperata ei. Duo cu nulla patrioque hendrerit, nullam maluisset sententiae no est, ad per sale aeterno eruditi. Eu duis mediocrem duo, ad per etiam essent percipit. Ex eos wisi omnesque, duo debitis vituperatoribus cu.
-
-Id quas admodum sed, te sed legimus deterruisset. Cum amet eleifend salutatus ei. Mea utroque adipiscing ut. Eum cu persius alienum, ius graece scaevola ea, no per feugiat abhorreant. Ridens efficiantur eos ex, vide elitr definitionem nam ad. Has te luptatum quaestio adolescens.
-
-Possit meliore posidonium et mea, ea sea illum dolor, noster bonorum sit ne. Usu id nihil fastidii deterruisset. Meliore recteque mel et, aliquam maluisset quo et, nisl sonet eu est. His ex meis quando dolorem, mea in habeo utinam appareat. Est hinc libris et. Id mel sumo accumsan pericula.
-
-His fugit pericula in. Ea usu magna facer detracto, eam eruditi eleifend pertinacia ea. Ius ea omnium bonorum, expetenda consetetur id usu. Ei posse offendit insolens sed. Et tale sanctus percipitur duo, qui commodo accumsan omnesque ei.
-
-<!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll) -->
-
 
 Pie Chart
 
@@ -141,5 +120,7 @@ Pie Chart
     });
     </script>
 </body>
+
+
 
 
